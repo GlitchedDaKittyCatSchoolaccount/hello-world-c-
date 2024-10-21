@@ -7,6 +7,6 @@ int main()
     cout << "Hello World!\n";
     cout << "This Is My First Working C++ Program\n";
     cout << "Developer Code: " << "Cal" << developercode << "\n";
-    cout << "Developer Code Translated To Human: Glitched Da Kitty Cat";
+    cout << "Developer Code Translated To English: Glitched Da Kitty Cat";
     return 0;
 }
